@@ -13,7 +13,7 @@
         #twisted
 
         # [LDAP] extra
-            python-ldap==2.4.28
+            python-ldap==3.4.0
                 #setuptools
 
         # [DAL] extra
