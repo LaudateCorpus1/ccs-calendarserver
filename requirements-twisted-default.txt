@@ -18,7 +18,7 @@ Twisted==22.1.0
     pycrypto==2.6.1
 
     pyOpenSSL==17.5.0
-        cryptography==3.3.2
+        cryptography==39.0.1
         	idna
             #pyasn1
             #cffi
